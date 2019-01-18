@@ -1,5 +1,7 @@
 # com.qudini.security.truststore
 
+[![CircleCI](https://circleci.com/gh/qudini/qudini-truststore.svg?style=svg)](https://circleci.com/gh/qudini/qudini-truststore)
+
 *Warning:* this is an unstable prototype still being built; don't use for real environments. In particular, it does
 not yet have tests.
 
